@@ -1,0 +1,5 @@
+git+gits://github.com/kangasbros/simple-jsonrpc
+# git+git://github.com/jgarzik/python-bitcoinrpc
+simplejson
+leveldb
+pycoin
